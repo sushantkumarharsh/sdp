@@ -1,0 +1,24 @@
+{
+  "name": "sdp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@jitsi/react-sdk": "^1.4.0",
+    "next": "14.2.3",
+    "node.js": "^0.0.1-security",
+    "nodemailer": "^6.9.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-jitsi": "^1.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}
